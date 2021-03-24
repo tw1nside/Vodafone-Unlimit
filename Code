@@ -1,0 +1,1 @@
+CONNECT [host_port] [protocol][crlf]Host: speedtest.vodafone.ua[crlf]X-Online-Host: speedtest.vodafone.ua[crlf]X-Forward-Host: speedtest.vodafone.ua[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]CONNECT [host_port] [protocol][crlf][crlf]
