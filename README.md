@@ -1,4 +1,6 @@
 # Безлимитный интернет на Vodafone
+![Alt Text](![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
+
 ## Требования:
 1. Нулевой баланс на счету
 2. TLS Tunnel (работает только на Android)
