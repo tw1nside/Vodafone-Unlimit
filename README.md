@@ -1,5 +1,5 @@
 # Безлимитный интернет на Vodafone
-![Alt Text](![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
+(![Alt Text](https://media.giphy.com/media/rwMofHqKKMLHW/giphy.gif)
 
 ## Требования:
 1. Нулевой баланс на счету
