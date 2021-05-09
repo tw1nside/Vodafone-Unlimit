@@ -14,7 +14,7 @@
 - **Пользовательский SNI**
 ![image](https://user-images.githubusercontent.com/81299684/112294983-1df03380-8c9c-11eb-87ed-c9859f6cfbe8.png)
 5. Вставляем туда код который находится ниже
-6. **CONNECT [host_port] [protocol][crlf]Host: speedtest.vodafone.ua[crlf]X-Online-Host: speedtest.vodafone.ua[crlf]X-Forward-Host: speedtest.vodafone.ua[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]CONNECT [host_port] [protocol][crlf][crlf]**
+**CONNECT [host_port] [protocol][crlf]Host: speedtest.vodafone.ua[crlf]X-Online-Host: speedtest.vodafone.ua[crlf]X-Forward-Host: speedtest.vodafone.ua[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]CONNECT [host_port] [protocol][crlf][crlf]**
 7. Порт оставляем таким-же, для более быстрого интернета выбираем **Бразилию**
 8. Включаем передачу данных и жмем на кнопку **"НАЧАТЬ"**
 9. Пользуемся бесплатным безлимитом ✅
